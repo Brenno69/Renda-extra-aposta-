@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Renda Extra com Apostas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      color: #222;
+    }
+
+    p {
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+
+    a.botao {
+      display: inline-block;
+      background: #27ae60;
+      color: white;
+      text-decoration: none;
+      padding: 15px 25px;
+      font-size: 18px;
+      border-radius: 5px;
+    }
+
+    a.botao:hover {
+      background: #219150;
+    }
+  </style>
+</head>
+<body>
+  <h1>Descubra Como Fazer Renda Extra com Apostas Esportivas</h1>
+  <p>Baixe agora o eBook gratuito e aprenda o passo a passo direto no WhatsApp.</p>
+  
+  <a class="botao" href="https://wa.me/5516981245287?text=Quero%20receber%20o%20eBook%20de%20renda%20extra%20com%20apostas!" target="_blank">Quero o eBook no WhatsApp</a>
+</body>
+</html>
